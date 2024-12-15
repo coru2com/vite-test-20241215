@@ -1,0 +1,16 @@
+/* ゲーム画面のスタイル */
+#game-container {
+  margin: 0 auto;
+  display: block;
+}
+
+/* タイトル画面のスタイル */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+}
